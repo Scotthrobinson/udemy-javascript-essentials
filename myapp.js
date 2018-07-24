@@ -26,7 +26,7 @@ function makeCoffee (sugar, milk){
     instructions += " Pour into Cup,";
     instructions += " add coffee granules,";
     instructions += " add " + sugar + " spoons of sugar,";
-    instructions += " add " + milk + "%milk.";
+    instructions += " add " + milk + "% milk.";
     return instructions
 }
 
